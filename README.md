@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Advanced javascript framework**
 
-- 💬 Ask me about **Python,MySQL,CSS/HTML**
+- 💬 Ask me about **Java,MySQL,CSS/HTML**
 
 - 📫 How to reach me **mohamedfaizeen10@gmailcom**
 
