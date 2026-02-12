@@ -1,7 +1,7 @@
 # GitHub README
 
 <h1 align="center">Hi 👋, I'm Mohamed Faizeen J</h1>
-<h3 align="center">Full Stack Developer • JavaScript | React | Node.js | Python • Building Scalable Web Apps from Day One</h3>
+<h3 align="center">Full Stack Developer • JavaScript | React | Node.js • Building Scalable Web Apps from Day One</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedfaizeen&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedfaizeen" /> </p>
 
