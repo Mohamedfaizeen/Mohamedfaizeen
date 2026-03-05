@@ -1,17 +1,17 @@
 # GitHub README
 
 <h1 align="center">Hi 👋, I'm Mohamed Faizeen J</h1>
-<h3 align="center">Full Stack Developer • JavaScript | React | Node.js • Building Scalable Web Apps from Day One</h3>
+<h3 align="center">Full Stack Developer • JavaScript | React | SpringBoot • Building Scalable Web Apps from Day One</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedfaizeen&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedfaizeen" /> </p>
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **Node.js**
 
 - 👯 I’m looking to collaborate on **Integrating ML models into web apps**
 
 - 🤝 I’m looking for help with **Advanced javascript framework**
 
-- 💬 Ask me about **Java,react,Spring,MySQL,CSS/HTML**
+- 💬 Ask me about **Java,react,MySQL,CSS/HTML**
 
 - 📫 How to reach me **mohamedfaizeen10@gmailcom**
 
