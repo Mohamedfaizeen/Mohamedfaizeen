@@ -5,21 +5,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedfaizeen&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedfaizeen" /> </p>
 
-- 🌱 I’m currently learning **React/Vue**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👯 I’m looking to collaborate on **Integrating ML models into web apps**
 
 - 🤝 I’m looking for help with **Advanced javascript framework**
 
-- 💬 Ask me about **Java,MySQL,CSS/HTML**
+- 💬 Ask me about **Java,react,Spring,MySQL,CSS/HTML**
 
 - 📫 How to reach me **mohamedfaizeen10@gmailcom**
 
-- 📄 Know about my experiences [file:///C:/Users/moham/Faizeen%20Resume[.1]%20.pdf](file:///C:/Users/moham/Faizeen%20Resume[.1]%20.pdf)
+- 📄 Know about my experiences
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohamed-faizeen-j-lm10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohamed-faizeen-j-lm10" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-faizeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohamed-faizeen-j-lm10" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
